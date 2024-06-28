@@ -1,0 +1,15 @@
+{
+    "name": "projeto-orm",
+    "version": "2.0.0",
+    "description": "Projeto genérico ORM",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Fernas",
+    "license": "ISC"
+  }
+  
